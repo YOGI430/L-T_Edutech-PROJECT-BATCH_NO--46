@@ -1,14 +1,14 @@
 # L-T_Edutech-PROJECT-BATCH_NO--46
-AIM OF THE PROJECT
+1.AIM OF THE PROJECT
 
 The aim of this project is to develop an appropriate CNN model for binary classification of whether an oil spill is there
 or not.
 
-UNIQUENESS/DIFFERENTIATOR TRIED OUT IN THE PROJECT
+2.UNIQUENESS/DIFFERENTIATOR TRIED OUT IN THE PROJECT
 
 CNN model has been tried as a new methodology with existing model
 
-METRICS OF THE PROJECT
+3.METRICS OF THE PROJECT
 
 Model accuracy for CNN: 0.97
 
